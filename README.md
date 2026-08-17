@@ -3,11 +3,6 @@
 A simple and interactive **Real-Time Character Counter** built with HTML, CSS, and JavaScript.<br>
 It allows users to enter text and instantly see how many characters they have typed and how many characters are remaining.
 
-## Preview
-
-[Live Preview](http://127.0.0.1:3000/index.html?vscode-livepreview=true)
-
-
 ## Features
 
 - Real-time character counting
