@@ -1,6 +1,6 @@
 let textArea = document.querySelector(".text");
-const totalchar = document.querySelector(".totalchar")
-let reamin = document.querySelector(".Remaining")
+const totalchar = document.querySelector(".totalchar");
+let reamin = document.querySelector(".Remaining");
 
 textArea.addEventListener("keyup", () => {
 updatecounter();
